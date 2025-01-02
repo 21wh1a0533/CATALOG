@@ -73,6 +73,6 @@ public class SS {
             constant = constant.add(li.multiply(yi));
         }
 
-        return constant.abs(); // Ensure the result is positive
+        return constant.abs(); 
     }
 }
